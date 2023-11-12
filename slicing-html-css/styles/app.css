@@ -1,0 +1,82 @@
+@import url("../assets/fonts/fonts.css");
+
+:root {
+  /* FONTS */
+  --primary-font: "Poppins", sans-serif;
+
+  /* CONTAINER */
+  --container-lg: 1080px;
+
+  /* LARGE */
+  --text-2xl: 28px;
+  --text-3xl: 36px;
+  --text-4xl: 40px;
+  --text-5xl: 64px;
+  --text-6xl: 80px;
+
+  /* REGULAR */
+  --text-xl: 24px;
+  --text-lg: 20px;
+  --text-base: 16px;
+
+  /* COLOR */
+  --white: #fff;
+  --black: #000;
+  --dark-gray: #6f6f6f;
+  --orange: #f8a401;
+}
+
+*,
+html {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: var(--primary-font);
+  scroll-behavior: smooth;
+}
+
+/* HEADER */
+.container {
+  max-width: var(--container-lg);
+  margin: 0 auto;
+}
+
+.nav-wrapper {
+  padding: 30px 0;
+
+  display: flex; /* Mengatur tampilan menjadi flex */
+  align-items: center; /* Mengatur posisi item menjadi center atau sejajar */
+  justify-content: space-between; /* Mengatur posisi item menjadi sejajar dan rata kanan kiri */
+}
+
+.nav-title {
+  font-size: var(--text-3xl); /* Mengatur ukuran font */
+  font-weight: 700; /* Mengatur ukuran ketebalan font */
+  text-transform: uppercase; /* Mengatur font supaya kapital semua */
+  color: var(--black); /* Mengatur warna font menjadi hitam */
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.nav-menu a {
+  font-size: var(--text-lg); /* 20px */
+  font-weight: 500;
+  color: var(--black);
+  text-decoration: none; /* Menghilangkan underline pada anchor */
+}
+
+.cta-button {
+  font-size: var(--text-base);
+  font-weight: 600;
+  color: var(--black);
+  text-decoration: none;
+  text-transform: capitalize;
+
+  padding: 16px 40px; /* Menambahkan jarak atas-bawah dan kanan-kiri */
+  border: 1px solid var(--black); /* Menambahkan border dengan warna hitam */
+  border-radius: 12px; /* Mengatur sudut border menjadi bulat */
+}
