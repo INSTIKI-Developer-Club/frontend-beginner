@@ -1,0 +1,1840 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Andres",
+      "email": "Shaylee.Rempel@yahoo.com",
+      "fullName": "Robert Koelpin",
+      "job": "Legacy Intranet Representative",
+      "country": "Congo"
+    },
+    {
+      "id": 2,
+      "username": "Berta",
+      "email": "Lori.Miller@yahoo.com",
+      "fullName": "Mrs. Darin Jacobs",
+      "job": "Product Security Executive",
+      "country": "Iraq"
+    },
+    {
+      "id": 3,
+      "username": "Glenda",
+      "email": "Kory29@gmail.com",
+      "fullName": "Roberto Nikolaus V",
+      "job": "Regional Infrastructure Director",
+      "country": "Belize"
+    },
+    {
+      "id": 4,
+      "username": "Syble",
+      "email": "Anya90@yahoo.com",
+      "fullName": "June Mayert Jr.",
+      "job": "International Security Assistant",
+      "country": "Andorra"
+    },
+    {
+      "id": 5,
+      "username": "Roma",
+      "email": "Gregory_Crona45@gmail.com",
+      "fullName": "Miss Wilbert Waters",
+      "job": "Internal Intranet Representative",
+      "country": "Christmas Island"
+    },
+    {
+      "id": 6,
+      "username": "Carter",
+      "email": "Breanne_Orn@yahoo.com",
+      "fullName": "Monica Collier",
+      "job": "District Interactions Director",
+      "country": "Portugal"
+    },
+    {
+      "id": 7,
+      "username": "Alvina",
+      "email": "Woodrow.Yundt60@yahoo.com",
+      "fullName": "Cristina Abshire",
+      "job": "Central Paradigm Planner",
+      "country": "Chad"
+    },
+    {
+      "id": 8,
+      "username": "Korey",
+      "email": "Gloria63@gmail.com",
+      "fullName": "Juanita Jerde",
+      "job": "Lead Branding Officer",
+      "country": "Brunei Darussalam"
+    },
+    {
+      "id": 9,
+      "username": "Destinee",
+      "email": "Consuelo_Schiller@yahoo.com",
+      "fullName": "Meghan Greenholt",
+      "job": "Legacy Usability Agent",
+      "country": "Greece"
+    },
+    {
+      "id": 10,
+      "username": "Diego",
+      "email": "Linnea28@yahoo.com",
+      "fullName": "Jan Bahringer",
+      "job": "Internal Communications Architect",
+      "country": "Democratic People's Republic of Korea"
+    },
+    {
+      "id": 11,
+      "username": "Santos",
+      "email": "Eulah_Spencer68@yahoo.com",
+      "fullName": "Eduardo Bins",
+      "job": "Central Factors Executive",
+      "country": "Tajikistan"
+    },
+    {
+      "id": 12,
+      "username": "Romaine",
+      "email": "Violet78@yahoo.com",
+      "fullName": "Clifton McCullough",
+      "job": "Direct Division Liaison",
+      "country": "Libyan Arab Jamahiriya"
+    },
+    {
+      "id": 13,
+      "username": "Leopoldo",
+      "email": "Virginie_Kub@gmail.com",
+      "fullName": "Bobby Nitzsche",
+      "job": "International Data Coordinator",
+      "country": "Croatia"
+    },
+    {
+      "id": 14,
+      "username": "Lorna",
+      "email": "Mack.Cruickshank88@gmail.com",
+      "fullName": "Carl Morar Sr.",
+      "job": "Senior Metrics Strategist",
+      "country": "Somalia"
+    },
+    {
+      "id": 15,
+      "username": "Dedrick",
+      "email": "Isidro.Stokes@yahoo.com",
+      "fullName": "Jeannie Nolan",
+      "job": "Global Factors Assistant",
+      "country": "Honduras"
+    },
+    {
+      "id": 16,
+      "username": "Sherman",
+      "email": "Kyler.Barrows@gmail.com",
+      "fullName": "Erick Kuphal",
+      "job": "International Assurance Director",
+      "country": "Uganda"
+    },
+    {
+      "id": 17,
+      "username": "Evie",
+      "email": "Jamil29@hotmail.com",
+      "fullName": "Mr. Johnnie Wintheiser",
+      "job": "Human Accountability Analyst",
+      "country": "Maldives"
+    },
+    {
+      "id": 18,
+      "username": "Savanna",
+      "email": "Mabelle21@gmail.com",
+      "fullName": "Velma Macejkovic PhD",
+      "job": "National Infrastructure Producer",
+      "country": "Swaziland"
+    },
+    {
+      "id": 19,
+      "username": "Marcelle",
+      "email": "Foster.Waelchi70@gmail.com",
+      "fullName": "Theresa Orn",
+      "job": "Internal Configuration Specialist",
+      "country": "Turkmenistan"
+    },
+    {
+      "id": 20,
+      "username": "Karen",
+      "email": "Annetta_Berge@gmail.com",
+      "fullName": "Gerardo Prosacco",
+      "job": "Corporate Solutions Executive",
+      "country": "Mayotte"
+    },
+    {
+      "id": 21,
+      "username": "Zella",
+      "email": "Fermin53@hotmail.com",
+      "fullName": "Cameron Prohaska",
+      "job": "Corporate Division Assistant",
+      "country": "Malawi"
+    },
+    {
+      "id": 22,
+      "username": "Thea",
+      "email": "Roosevelt19@hotmail.com",
+      "fullName": "Dr. Dominic Jakubowski",
+      "job": "International Assurance Associate",
+      "country": "Wallis and Futuna"
+    },
+    {
+      "id": 23,
+      "username": "Peyton",
+      "email": "Harry90@gmail.com",
+      "fullName": "Desiree Mante MD",
+      "job": "Lead Functionality Administrator",
+      "country": "Samoa"
+    },
+    {
+      "id": 24,
+      "username": "Noemie",
+      "email": "Eryn35@hotmail.com",
+      "fullName": "Naomi Roob",
+      "job": "Forward Division Developer",
+      "country": "Honduras"
+    },
+    {
+      "id": 25,
+      "username": "Selmer",
+      "email": "Zora_Mayer@yahoo.com",
+      "fullName": "Salvatore Hauck IV",
+      "job": "Global Marketing Director",
+      "country": "Bermuda"
+    },
+    {
+      "id": 26,
+      "username": "Darius",
+      "email": "Conor_Brekke19@gmail.com",
+      "fullName": "Dr. Amber Cassin",
+      "job": "Dynamic Accounts Technician",
+      "country": "Panama"
+    },
+    {
+      "id": 27,
+      "username": "Elinore",
+      "email": "Enrico1@hotmail.com",
+      "fullName": "Mr. Sean Schamberger",
+      "job": "Dynamic Usability Producer",
+      "country": "New Caledonia"
+    },
+    {
+      "id": 28,
+      "username": "Kameron",
+      "email": "Dustin_Von@yahoo.com",
+      "fullName": "Bobby Wilderman",
+      "job": "Central Intranet Agent",
+      "country": "Uruguay"
+    },
+    {
+      "id": 29,
+      "username": "Erika",
+      "email": "Carissa.Leannon27@gmail.com",
+      "fullName": "Kim Nicolas",
+      "job": "Corporate Quality Architect",
+      "country": "Pakistan"
+    },
+    {
+      "id": 30,
+      "username": "Alvah",
+      "email": "Jessica_Leuschke@gmail.com",
+      "fullName": "Maryann Wuckert V",
+      "job": "Internal Usability Officer",
+      "country": "United Arab Emirates"
+    },
+    {
+      "id": 31,
+      "username": "Thora",
+      "email": "Andreanne.Becker17@gmail.com",
+      "fullName": "Ruth West",
+      "job": "Senior Communications Assistant",
+      "country": "Argentina"
+    },
+    {
+      "id": 32,
+      "username": "Garnet",
+      "email": "Willa_Herzog94@yahoo.com",
+      "fullName": "Laverne Carter",
+      "job": "Regional Applications Director",
+      "country": "Samoa"
+    },
+    {
+      "id": 33,
+      "username": "Casimer",
+      "email": "Cayla93@gmail.com",
+      "fullName": "Kathryn Morar",
+      "job": "Senior Intranet Executive",
+      "country": "Norfolk Island"
+    },
+    {
+      "id": 34,
+      "username": "Taurean",
+      "email": "Mckayla_Grimes34@hotmail.com",
+      "fullName": "Dominic Hilll",
+      "job": "Direct Response Director",
+      "country": "Lebanon"
+    },
+    {
+      "id": 35,
+      "username": "Nathanial",
+      "email": "Ignatius.Zboncak@gmail.com",
+      "fullName": "June Doyle",
+      "job": "Senior Brand Designer",
+      "country": "Mauritius"
+    },
+    {
+      "id": 36,
+      "username": "Gracie",
+      "email": "Prudence.Stokes@gmail.com",
+      "fullName": "Roderick Anderson",
+      "job": "Forward Accountability Consultant",
+      "country": "Poland"
+    },
+    {
+      "id": 37,
+      "username": "Jovan",
+      "email": "Cory.Stokes@yahoo.com",
+      "fullName": "Israel Rodriguez",
+      "job": "Chief Interactions Consultant",
+      "country": "Saint Kitts and Nevis"
+    },
+    {
+      "id": 38,
+      "username": "Amber",
+      "email": "Maverick.Hirthe@yahoo.com",
+      "fullName": "Mae Ratke",
+      "job": "Direct Creative Associate",
+      "country": "Paraguay"
+    },
+    {
+      "id": 39,
+      "username": "Augustus",
+      "email": "Kennith92@gmail.com",
+      "fullName": "Miss Bethany Maggio",
+      "job": "Dynamic Communications Coordinator",
+      "country": "Norway"
+    },
+    {
+      "id": 40,
+      "username": "Emile",
+      "email": "Lue_Jenkins88@yahoo.com",
+      "fullName": "Lorene Zboncak",
+      "job": "Global Identity Consultant",
+      "country": "Samoa"
+    },
+    {
+      "id": 41,
+      "username": "Kari",
+      "email": "Pietro35@yahoo.com",
+      "fullName": "Sonja Kshlerin",
+      "job": "Global Group Coordinator",
+      "country": "Bolivia"
+    },
+    {
+      "id": 42,
+      "username": "Dameon",
+      "email": "Foster_Boyle54@gmail.com",
+      "fullName": "Mr. Roger Sauer",
+      "job": "Forward Applications Coordinator",
+      "country": "Ghana"
+    },
+    {
+      "id": 43,
+      "username": "Milo",
+      "email": "Rosa8@gmail.com",
+      "fullName": "Raul Wiegand",
+      "job": "Lead Usability Technician",
+      "country": "Venezuela"
+    },
+    {
+      "id": 44,
+      "username": "Jordane",
+      "email": "Cathrine_McDermott17@yahoo.com",
+      "fullName": "Dana Kovacek",
+      "job": "Principal Creative Officer",
+      "country": "Morocco"
+    },
+    {
+      "id": 45,
+      "username": "Chloe",
+      "email": "Rita.Braun25@hotmail.com",
+      "fullName": "Rogelio Hegmann IV",
+      "job": "Customer Applications Technician",
+      "country": "Saint Helena"
+    },
+    {
+      "id": 46,
+      "username": "Valentin",
+      "email": "Destiny.Runolfsdottir@hotmail.com",
+      "fullName": "Shelley Huel",
+      "job": "National Identity Manager",
+      "country": "El Salvador"
+    },
+    {
+      "id": 47,
+      "username": "Marcella",
+      "email": "Connie.Howe@hotmail.com",
+      "fullName": "Mable Effertz",
+      "job": "Dynamic Response Coordinator",
+      "country": "Dominican Republic"
+    },
+    {
+      "id": 48,
+      "username": "Connie",
+      "email": "Eulalia.Olson91@gmail.com",
+      "fullName": "Catherine Ebert",
+      "job": "Principal Markets Liaison",
+      "country": "Wallis and Futuna"
+    },
+    {
+      "id": 49,
+      "username": "Deonte",
+      "email": "Darlene_Kirlin@hotmail.com",
+      "fullName": "Amanda Romaguera I",
+      "job": "Chief Group Consultant",
+      "country": "Ethiopia"
+    },
+    {
+      "id": 50,
+      "username": "Rogelio",
+      "email": "Waino81@yahoo.com",
+      "fullName": "Rickey Bins",
+      "job": "Regional Metrics Executive",
+      "country": "Swaziland"
+    },
+    {
+      "id": 51,
+      "username": "Paolo",
+      "email": "Cole.Maggio@hotmail.com",
+      "fullName": "Marion Runte",
+      "job": "Product Division Analyst",
+      "country": "Algeria"
+    },
+    {
+      "id": 52,
+      "username": "Cheyanne",
+      "email": "Jo46@yahoo.com",
+      "fullName": "Mrs. Loretta Murphy",
+      "job": "Dynamic Optimization Assistant",
+      "country": "Hong Kong"
+    },
+    {
+      "id": 53,
+      "username": "Llewellyn",
+      "email": "Favian.Rutherford@yahoo.com",
+      "fullName": "Jeremiah Fritsch",
+      "job": "National Data Facilitator",
+      "country": "Ghana"
+    },
+    {
+      "id": 54,
+      "username": "Garry",
+      "email": "Lyla.Robel@hotmail.com",
+      "fullName": "Lila Durgan",
+      "job": "Product Solutions Supervisor",
+      "country": "Burkina Faso"
+    },
+    {
+      "id": 55,
+      "username": "Kareem",
+      "email": "Harmon.Gaylord13@gmail.com",
+      "fullName": "Dr. Edgar Zieme",
+      "job": "Customer Research Administrator",
+      "country": "Tajikistan"
+    },
+    {
+      "id": 56,
+      "username": "Allen",
+      "email": "Reilly72@gmail.com",
+      "fullName": "Ms. Martin Dach",
+      "job": "Lead Optimization Technician",
+      "country": "Oman"
+    },
+    {
+      "id": 57,
+      "username": "Ima",
+      "email": "Margaret14@gmail.com",
+      "fullName": "Florence Waelchi",
+      "job": "Senior Communications Supervisor",
+      "country": "Slovenia"
+    },
+    {
+      "id": 58,
+      "username": "Waylon",
+      "email": "Whitney.Willms@hotmail.com",
+      "fullName": "Mr. Earnest Bode",
+      "job": "Human Web Administrator",
+      "country": "Honduras"
+    },
+    {
+      "id": 59,
+      "username": "Willis",
+      "email": "Miles.Terry@gmail.com",
+      "fullName": "Harry Murazik V",
+      "job": "Future Operations Associate",
+      "country": "Qatar"
+    },
+    {
+      "id": 60,
+      "username": "Kailee",
+      "email": "Gregorio.Osinski47@hotmail.com",
+      "fullName": "Belinda Deckow",
+      "job": "Internal Markets Administrator",
+      "country": "Belgium"
+    },
+    {
+      "id": 61,
+      "username": "Pierce",
+      "email": "Luciano_Lebsack@gmail.com",
+      "fullName": "Billie Bailey",
+      "job": "Central Accountability Director",
+      "country": "Greece"
+    },
+    {
+      "id": 62,
+      "username": "Javon",
+      "email": "Gene30@hotmail.com",
+      "fullName": "Judy Lemke",
+      "job": "Central Branding Strategist",
+      "country": "Argentina"
+    },
+    {
+      "id": 63,
+      "username": "Darion",
+      "email": "Gail.Daugherty@gmail.com",
+      "fullName": "Brian Hyatt",
+      "job": "National Brand Orchestrator",
+      "country": "Gibraltar"
+    },
+    {
+      "id": 64,
+      "username": "Curt",
+      "email": "Modesta8@gmail.com",
+      "fullName": "Mr. Beulah Turner",
+      "job": "Global Accountability Analyst",
+      "country": "Virgin Islands, U.S."
+    },
+    {
+      "id": 65,
+      "username": "Deion",
+      "email": "Lou.Dach80@gmail.com",
+      "fullName": "Carolyn Ullrich",
+      "job": "National Paradigm Engineer",
+      "country": "Djibouti"
+    },
+    {
+      "id": 66,
+      "username": "Christy",
+      "email": "Javon_Lebsack71@hotmail.com",
+      "fullName": "Roderick Runte DDS",
+      "job": "Forward Paradigm Developer",
+      "country": "Tokelau"
+    },
+    {
+      "id": 67,
+      "username": "Eva",
+      "email": "Lila.Dickens@yahoo.com",
+      "fullName": "Christopher Satterfield",
+      "job": "Future Factors Designer",
+      "country": "Slovenia"
+    },
+    {
+      "id": 68,
+      "username": "Elta",
+      "email": "Helen65@gmail.com",
+      "fullName": "Bernadette Davis",
+      "job": "National Directives Designer",
+      "country": "Myanmar"
+    },
+    {
+      "id": 69,
+      "username": "Victor",
+      "email": "Wilbert_Bogisich11@gmail.com",
+      "fullName": "Russell Auer",
+      "job": "Principal Integration Manager",
+      "country": "Antarctica (the territory South of 60 deg S)"
+    },
+    {
+      "id": 70,
+      "username": "Lea",
+      "email": "Lila.Trantow@gmail.com",
+      "fullName": "Jamie Wiegand",
+      "job": "Forward Optimization Agent",
+      "country": "Brazil"
+    },
+    {
+      "id": 71,
+      "username": "Mitchel",
+      "email": "Bernard66@gmail.com",
+      "fullName": "Joann Sawayn Jr.",
+      "job": "Direct Branding Developer",
+      "country": "Andorra"
+    },
+    {
+      "id": 72,
+      "username": "Elton",
+      "email": "Era_Bergnaum38@gmail.com",
+      "fullName": "Raymond Bartoletti",
+      "job": "Future Intranet Representative",
+      "country": "Saint Barthelemy"
+    },
+    {
+      "id": 73,
+      "username": "Yolanda",
+      "email": "Marcellus41@yahoo.com",
+      "fullName": "Sergio Weimann",
+      "job": "Principal Metrics Executive",
+      "country": "Barbados"
+    },
+    {
+      "id": 74,
+      "username": "Liana",
+      "email": "Quinten.Keeling86@gmail.com",
+      "fullName": "Jamie Dooley",
+      "job": "Principal Applications Manager",
+      "country": "Christmas Island"
+    },
+    {
+      "id": 75,
+      "username": "Stan",
+      "email": "Vinnie_Prosacco83@gmail.com",
+      "fullName": "Carmen McClure Sr.",
+      "job": "Regional Division Engineer",
+      "country": "Georgia"
+    },
+    {
+      "id": 76,
+      "username": "Teagan",
+      "email": "Jacey_Thompson@gmail.com",
+      "fullName": "Glenn Considine",
+      "job": "Internal Quality Analyst",
+      "country": "Morocco"
+    },
+    {
+      "id": 77,
+      "username": "Deborah",
+      "email": "Aniya73@hotmail.com",
+      "fullName": "Domingo Hoppe",
+      "job": "Corporate Research Designer",
+      "country": "Sao Tome and Principe"
+    },
+    {
+      "id": 78,
+      "username": "Jayde",
+      "email": "Verlie.Hoppe@hotmail.com",
+      "fullName": "Erika Olson",
+      "job": "Central Solutions Supervisor",
+      "country": "Australia"
+    },
+    {
+      "id": 79,
+      "username": "Daisy",
+      "email": "Litzy.Beahan64@yahoo.com",
+      "fullName": "Mr. Bertha Heaney",
+      "job": "Dynamic Paradigm Associate",
+      "country": "Denmark"
+    },
+    {
+      "id": 80,
+      "username": "Orville",
+      "email": "Melody1@hotmail.com",
+      "fullName": "Jan Durgan",
+      "job": "Central Brand Orchestrator",
+      "country": "Bolivia"
+    },
+    {
+      "id": 81,
+      "username": "Cordell",
+      "email": "Rudolph_Kuvalis@yahoo.com",
+      "fullName": "Julian Kuhic",
+      "job": "District Usability Director",
+      "country": "Liechtenstein"
+    },
+    {
+      "id": 82,
+      "username": "Rowan",
+      "email": "Jesus_Franey@hotmail.com",
+      "fullName": "Leticia Weissnat",
+      "job": "Corporate Operations Specialist",
+      "country": "Comoros"
+    },
+    {
+      "id": 83,
+      "username": "Kacey",
+      "email": "Letitia.Ledner42@gmail.com",
+      "fullName": "Juana Fisher",
+      "job": "International Directives Administrator",
+      "country": "Lao People's Democratic Republic"
+    },
+    {
+      "id": 84,
+      "username": "Camilla",
+      "email": "Peyton.Kautzer@hotmail.com",
+      "fullName": "Kara Wilderman",
+      "job": "Investor Solutions Designer",
+      "country": "Peru"
+    },
+    {
+      "id": 85,
+      "username": "Carey",
+      "email": "Kathryne.Boyer71@gmail.com",
+      "fullName": "Ramona Kling V",
+      "job": "Direct Identity Agent",
+      "country": "Lesotho"
+    },
+    {
+      "id": 86,
+      "username": "Amalia",
+      "email": "Kennedi_Bahringer@gmail.com",
+      "fullName": "Terri Padberg",
+      "job": "Senior Optimization Director",
+      "country": "Holy See (Vatican City State)"
+    },
+    {
+      "id": 87,
+      "username": "Aniya",
+      "email": "Alysa_Hills74@hotmail.com",
+      "fullName": "Ms. Delia Crooks",
+      "job": "Central Optimization Executive",
+      "country": "Netherlands Antilles"
+    },
+    {
+      "id": 88,
+      "username": "Reagan",
+      "email": "Opal48@gmail.com",
+      "fullName": "Frederick Rutherford",
+      "job": "Future Directives Technician",
+      "country": "Venezuela"
+    },
+    {
+      "id": 89,
+      "username": "Alize",
+      "email": "Thurman_Ziemann89@gmail.com",
+      "fullName": "Miss Antonia Hamill V",
+      "job": "Principal Solutions Planner",
+      "country": "United Arab Emirates"
+    },
+    {
+      "id": 90,
+      "username": "Gregory",
+      "email": "Kaylah66@yahoo.com",
+      "fullName": "Essie Raynor",
+      "job": "Direct Research Liaison",
+      "country": "Afghanistan"
+    },
+    {
+      "id": 91,
+      "username": "Andres",
+      "email": "Toni.Lebsack98@gmail.com",
+      "fullName": "Leroy Dare",
+      "job": "Chief Communications Designer",
+      "country": "Burkina Faso"
+    },
+    {
+      "id": 92,
+      "username": "Anibal",
+      "email": "Beulah.Abernathy@hotmail.com",
+      "fullName": "Drew Lemke",
+      "job": "Senior Interactions Facilitator",
+      "country": "Saint Barthelemy"
+    },
+    {
+      "id": 93,
+      "username": "Yvette",
+      "email": "Annamarie.Champlin@hotmail.com",
+      "fullName": "Jane Denesik",
+      "job": "Corporate Accounts Administrator",
+      "country": "Czech Republic"
+    },
+    {
+      "id": 94,
+      "username": "Zoila",
+      "email": "Danielle_Muller@hotmail.com",
+      "fullName": "Ana Bayer",
+      "job": "Legacy Division Coordinator",
+      "country": "Lebanon"
+    },
+    {
+      "id": 95,
+      "username": "Marcel",
+      "email": "Gregg_Sipes64@yahoo.com",
+      "fullName": "Michelle Dach",
+      "job": "Legacy Security Technician",
+      "country": "Brunei Darussalam"
+    },
+    {
+      "id": 96,
+      "username": "Everett",
+      "email": "Rosetta.Graham85@yahoo.com",
+      "fullName": "Jim Heathcote",
+      "job": "Lead Infrastructure Producer",
+      "country": "Cambodia"
+    },
+    {
+      "id": 97,
+      "username": "Alison",
+      "email": "Buck.Strosin98@yahoo.com",
+      "fullName": "Joshua Davis",
+      "job": "Dynamic Group Specialist",
+      "country": "Pakistan"
+    },
+    {
+      "id": 98,
+      "username": "Royal",
+      "email": "Frances.Denesik@yahoo.com",
+      "fullName": "Miss Chad Waters",
+      "job": "International Web Director",
+      "country": "Bangladesh"
+    },
+    {
+      "id": 99,
+      "username": "Juana",
+      "email": "Julianne_Borer33@yahoo.com",
+      "fullName": "Edward Littel",
+      "job": "National Program Facilitator",
+      "country": "Pakistan"
+    },
+    {
+      "id": 100,
+      "username": "Clay",
+      "email": "Alba_Ortiz@gmail.com",
+      "fullName": "Sheryl Walker",
+      "job": "Global Group Executive",
+      "country": "Bouvet Island (Bouvetoya)"
+    }
+  ],
+  "jokes": [
+    {
+      "id": 1,
+      "jokes": "What do you call a fake noodle?",
+      "answer": "An Impasta",
+      "category": "Dad Jokes",
+      "language": "English",
+      "created_at": "2021-03-01T00:00:00.000Z",
+      "updated_at": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "jokes": "Apa yang 'Jauh di mata, dekat di hati?'",
+      "answer": "Usus",
+      "category": "Perumpamaan",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "jokes": "Rambut putih namanya uban, rambut merah namanya pirang, kalau rambut hijau namanya apa?",
+      "answer": "Rambutan belum mateng",
+      "category": "Logika",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "jokes": "Sepeda apa yang tidak bisa dicat?",
+      "answer": "Sepeda hilang!",
+      "category": "Logika",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "jokes": "Benda apa yang baru dibeli langsung dibuang?",
+      "answer": "Kantong plastik",
+      "category": "Fakta",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "jokes": "Kenapa air mata warnanya bening?",
+      "answer": "Kalau hijau namanya air matcha xixixi",
+      "category": "Perumpamaan",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "jokes": "Siapa pemain bola yang beratnya 3 kg, Pak?",
+      "answer": "Bambang tabung gas",
+      "category": "Garing Jokes",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "jokes": "Monyet apa yang bikin sebel?",
+      "answer": "Monyetel TV malah remotnya hilang",
+      "category": "Perumpamaan",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "jokes": "Kenapa ayam jago kalau berkokok suka ndongak?",
+      "answer": "Karena kalau nunduk takut dikira ayam betina",
+      "category": "Perumpamaan",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "jokes": "Kenapa tukang bakso pake topi?",
+      "answer": "Biar kalau lagi motong daging ga kenak rambutnya",
+      "category": "Logika",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "jokes": "Kenapa kuda kalau lagi kawin suka nendang-nendang?",
+      "answer": "Biar bibitnya masuk",
+      "category": "Fakta",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "jokes": "Kenapa orang Indonesia suka makan nasi?",
+      "answer": "Karena nasi itu makanan pokok kita, kalau ga makan nasi berarti ga makan pokok",
+      "category": "Kebiasaan",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "jokes": "Kenapa kalau ke pasar harus bayar?",
+      "answer": "Karena kalau gratis namanya bukan pasar, namanya mal",
+      "category": "Perbandingan",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "jokes": "Kenapa kalau mau buang sampah harus bayar?",
+      "answer": "Karena kalau gratis namanya bukan buang sampah, namanya buang-buang",
+      "category": "Persamaan",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "jokes": "Kenapa kalau mau ke toilet harus bayar?",
+      "answer": "Karena kalau gratis namanya bukan toilet, namanya kamar mandi umum",
+      "category": "Perlawanan",
+      "language": "Indonesia",
+      "created_at": "2023-12-12T00:00:00.000Z",
+      "updated_at": "2023-12-12T00:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "jokes": "Antara besi 50 kg dengan kapas 50 kg pas kalu dijatuhkan di kaki, nanti sakitan mana?",
+      "answer": "Ya sakitan kakinya.",
+      "category": "Dad Jokes",
+      "language": "Indonesia",
+      "created_at": "2023-12-13T00:00:00.000Z",
+      "updated_at": "2023-12-13T00:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "jokes": "Dia membuat karya, pas jadi hasil karya tersebut diinjak-injak tidak marah, siap coba?",
+      "answer": "Pembuat sandal.",
+      "category": "Dad Jokes",
+      "language": "Indonesia",
+      "created_at": "2023-12-13T00:00:00.000Z",
+      "updated_at": "2023-12-13T00:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "jokes": "Hitam, putih, merah, apakah itu?",
+      "answer": "Zebra abis dikerokin.",
+      "category": "Dad Jokes",
+      "language": "Indonesia",
+      "created_at": "2023-12-13T00:00:00.000Z",
+      "updated_at": "2023-12-13T00:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "jokes": "Telor apa yang sangar?",
+      "answer": "Telor asin, soalnya ada tatonya.",
+      "category": "Perumpamaan",
+      "language": "Indonesia",
+      "created_at": "2023-12-13T00:00:00.000Z",
+      "updated_at": "2023-12-13T00:00:00.000Z"
+    },
+    {
+      "id": 20,
+      "jokes": "Telor asin takut ama siapa?",
+      "answer": "Ama telor puyuh, sebab tatonya lebih banyak",
+      "category": "Perumpamaan",
+      "language": "Indonesia",
+      "created_at": "2023-12-13T00:00:00.000Z",
+      "updated_at": "2023-12-13T00:00:00.000Z"
+    }
+  ],
+  "weather": [
+    {
+      "id": 1,
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "temperature": 28,
+      "humidity": 75,
+      "wind": 3,
+      "description": "Sunny",
+      "icon": "https://openweathermap.org/img/w/01d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 2,
+      "city": "Bandung",
+      "country": "Indonesia",
+      "temperature": 25,
+      "humidity": 60,
+      "wind": 2,
+      "description": "Partly Cloudy",
+      "icon": "https://openweathermap.org/img/w/03d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 3,
+      "city": "Surabaya",
+      "country": "Indonesia",
+      "temperature": 32,
+      "humidity": 80,
+      "wind": 4,
+      "description": "Haze",
+      "icon": "https://openweathermap.org/img/w/50d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 4,
+      "city": "Bali",
+      "country": "Indonesia",
+      "temperature": 30,
+      "humidity": 75,
+      "wind": 5,
+      "description": "Scattered Clouds",
+      "icon": "https://openweathermap.org/img/w/02d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 5,
+      "city": "Medan",
+      "country": "Indonesia",
+      "temperature": 27,
+      "humidity": 85,
+      "wind": 1,
+      "description": "Clear Sky",
+      "icon": "https://openweathermap.org/img/w/01d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 6,
+      "city": "Palembang",
+      "country": "Indonesia",
+      "temperature": 31,
+      "humidity": 70,
+      "wind": 3,
+      "description": "Fog",
+      "icon": "https://openweathermap.org/img/w/74d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 7,
+      "city": "Banjarmasin",
+      "country": "Indonesia",
+      "temperature": 28,
+      "humidity": 78,
+      "wind": 4,
+      "description": "Rain",
+      "icon": "https://openweathermap.org/img/w/10d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 8,
+      "city": "Manado",
+      "country": "Indonesia",
+      "temperature": 29,
+      "humidity": 82,
+      "wind": 2,
+      "description": "Drizzle",
+      "icon": "https://openweathermap.org/img/w/09d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 9,
+      "city": "Semarang",
+      "country": "Indonesia",
+      "temperature": 26,
+      "humidity": 70,
+      "wind": 3,
+      "description": "Thunderstorm",
+      "icon": "https://openweathermap.org/img/w/11d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 10,
+      "city": "Pekanbaru",
+      "country": "Indonesia",
+      "temperature": 31,
+      "humidity": 75,
+      "wind": 5,
+      "description": "Snow",
+      "icon": "https://openweathermap.org/img/w/13d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 11,
+      "city": "Makassar",
+      "country": "Indonesia",
+      "temperature": 33,
+      "humidity": 70,
+      "wind": 1,
+      "description": "Misty",
+      "icon": "https://openweathermap.org/img/w/50d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 12,
+      "city": "Pontianak",
+      "country": "Indonesia",
+      "temperature": 29,
+      "humidity": 80,
+      "wind": 2,
+      "description": "Dust",
+      "icon": "https://openweathermap.org/img/w/50d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 13,
+      "city": "Palangkaraya",
+      "country": "Indonesia",
+      "temperature": 32,
+      "humidity": 75,
+      "wind": 4,
+      "description": "Smoke",
+      "icon": "https://openweathermap.org/img/w",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 14,
+      "city": "Yogyakarta",
+      "country": "Indonesia",
+      "temperature": 27,
+      "humidity": 80,
+      "wind": 3,
+      "description": "Heavy Rain",
+      "icon": "https://openweathermap.org/img/w/11d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 15,
+      "city": "Surabaya",
+      "country": "Indonesia",
+      "temperature": 32,
+      "humidity": 80,
+      "wind": 4,
+      "description": "Light Rain",
+      "icon": "https://openweathermap.org/img/w/10d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 16,
+      "city": "Denpasar",
+      "country": "Indonesia",
+      "temperature": 30,
+      "humidity": 75,
+      "wind": 5,
+      "description": "Moderate Rain",
+      "icon": "https://openweathermap.org/img/w/11d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 17,
+      "city": "Mataram",
+      "country": "Indonesia",
+      "temperature": 28,
+      "humidity": 80,
+      "wind": 1,
+      "description": "Heavy Snow",
+      "icon": "https://openweathermap.org/img/w/13d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 18,
+      "city": "Banda Aceh",
+      "country": "Indonesia",
+      "temperature": 26,
+      "humidity": 70,
+      "wind": 3,
+      "description": "Light Snow",
+      "icon": "https://openweathermap.org/img/w/13d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 19,
+      "city": "Kupang",
+      "country": "Indonesia",
+      "temperature": 31,
+      "humidity": 75,
+      "wind": 5,
+      "description": "Moderate Snow",
+      "icon": "https://openweathermap.org/img/w/13d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    },
+    {
+      "id": 20,
+      "city": "Jayapura",
+      "country": "Indonesia",
+      "temperature": 33,
+      "humidity": 70,
+      "wind": 1,
+      "description": "Heavy Shower Snow",
+      "icon": "https://openweathermap.org/img/w/13d.png",
+      "created_at": "2023-12-13T01:39:30.213Z",
+      "updated_at": "2023-12-13T01:39:30.213Z"
+    }
+  ],
+  "food-receipt": [
+    {
+      "id": 1,
+      "name": "Burger",
+      "price": 10.99,
+      "ingredients": ["Bun", "Meat", "Cheese", "Lettuce", "Tomato", "Onion"],
+      "calories": 500,
+      "image": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A delicious burger with all the fixings",
+      "tags": ["burger", "beef", "cheese", "lettuce", "tomato", "onion"],
+      "category": "entree",
+      "restaurant": "Burger King",
+      "location": "123 Main St, New York, NY 10001",
+      "rating": 4.5,
+      "nutrition": {
+        "calories": 500,
+        "fat": 20,
+        "carbs": 50,
+        "protein": 30
+      },
+      "created_at": "2021-03-01T00:00:00.000Z",
+      "updated_at": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "price": 15.99,
+      "ingredients": [
+        "Dough",
+        "Tomato Sauce",
+        "Cheese",
+        "Pepperoni",
+        "Mushrooms",
+        "Onion"
+      ],
+      "calories": 800,
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A delicious pizza with all the fixings",
+      "tags": ["pizza", "pepperoni", "cheese", "mushrooms", "onion"],
+      "category": "entree",
+      "restaurant": "Pizza Hut",
+      "location": "123 Main St, New York, NY 10001",
+      "rating": 4.5,
+      "nutrition": {
+        "calories": 800,
+        "fat": 20,
+        "carbs": 50,
+        "protein": 30
+      },
+      "created_at": "2021-03-01T00:00:00.000Z",
+      "updated_at": "2021-03-01T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Salad",
+      "price": 10.99,
+      "ingredients": [
+        "Lettuce",
+        "Tomato",
+        "Onion",
+        "Cucumber",
+        "Carrot",
+        "Dressing"
+      ],
+      "calories": 300,
+      "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A delicious salad with all the fixings and dressing of your choice (ranch, blue cheese, italian, etc)",
+      "tags": ["salad", "lettuce", "tomato", "onion", "cucumber", "carrot"],
+      "category": "entree",
+      "restaurant": "Salad King",
+      "location": "123 Main St, New York, NY 10001",
+      "rating": 4.5,
+      "nutrition": {
+        "calories": 300,
+        "fat": 20,
+        "carbs": 50,
+        "protein": 30
+      },
+      "created_at": "2021-03-01T00:00:00.000Z",
+      "updated_at": "2021-03-01T00:00:00.000Z"
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "title": "Slate",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "slate-100", "hex": "#F1F5F9" },
+        { "id": 2, "colorName": "slate-200", "hex": "#E2E8F0" },
+        { "id": 3, "colorName": "slate-300", "hex": "#CBD5E1" },
+        { "id": 4, "colorName": "slate-400", "hex": "#94A3B8" },
+        { "id": 5, "colorName": "slate-500", "hex": "#64748B" },
+        { "id": 6, "colorName": "slate-600", "hex": "#475569" },
+        { "id": 7, "colorName": "slate-700", "hex": "#334155" },
+        { "id": 8, "colorName": "slate-800", "hex": "#1E293B" },
+        { "id": 9, "colorName": "slate-900", "hex": "#0F172A" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Gray",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "gray-100", "hex": "#F3F4F6" },
+        { "id": 2, "colorName": "gray-200", "hex": "#E5E7EB" },
+        { "id": 3, "colorName": "gray-300", "hex": "#D1D5DB" },
+        { "id": 4, "colorName": "gray-400", "hex": "#9CA3AF" },
+        { "id": 5, "colorName": "gray-500", "hex": "#6B7280" },
+        { "id": 6, "colorName": "gray-600", "hex": "#4B5563" },
+        { "id": 7, "colorName": "gray-700", "hex": "#374151" },
+        { "id": 8, "colorName": "gray-800", "hex": "#1F2937" },
+        { "id": 9, "colorName": "gray-900", "hex": "#111827" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Zinc",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "zinc-100", "hex": "#F4F4F5" },
+        { "id": 2, "colorName": "zinc-200", "hex": "#E4E4E7" },
+        { "id": 3, "colorName": "zinc-300", "hex": "#D4D4D8" },
+        { "id": 4, "colorName": "zinc-400", "hex": "#A1A1AA" },
+        { "id": 5, "colorName": "zinc-500", "hex": "#71717A" },
+        { "id": 6, "colorName": "zinc-600", "hex": "#52525B" },
+        { "id": 7, "colorName": "zinc-700", "hex": "#3F3F46" },
+        { "id": 8, "colorName": "zinc-800", "hex": "#27272A" },
+        { "id": 9, "colorName": "zinc-900", "hex": "#18181B" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Neutral",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "neutral-100", "hex": "#F5F5F5" },
+        { "id": 2, "colorName": "neutral-200", "hex": "#E5E5E5" },
+        { "id": 3, "colorName": "neutral-300", "hex": "#D4D4D4" },
+        { "id": 4, "colorName": "neutral-400", "hex": "#A3A3A3" },
+        { "id": 5, "colorName": "neutral-500", "hex": "#737373" },
+        { "id": 6, "colorName": "neutral-600", "hex": "#525252" },
+        { "id": 7, "colorName": "neutral-700", "hex": "#404040" },
+        { "id": 8, "colorName": "neutral-800", "hex": "#262626" },
+        { "id": 9, "colorName": "neutral-900", "hex": "#171717" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Stone",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "stone-100", "hex": "#F5F5F4" },
+        { "id": 2, "colorName": "stone-200", "hex": "#E7E5E4" },
+        { "id": 3, "colorName": "stone-300", "hex": "#D6D3D1" },
+        { "id": 4, "colorName": "stone-400", "hex": "#A8A29E" },
+        { "id": 5, "colorName": "stone-500", "hex": "#78716C" },
+        { "id": 6, "colorName": "stone-600", "hex": "#57534E" },
+        { "id": 7, "colorName": "stone-700", "hex": "#44403C" },
+        { "id": 8, "colorName": "stone-800", "hex": "#292524" },
+        { "id": 9, "colorName": "stone-900", "hex": "#1C1917" }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Red",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "red-100", "hex": "#FEE2E2" },
+        { "id": 2, "colorName": "red-200", "hex": "#FECACA" },
+        { "id": 3, "colorName": "red-300", "hex": "#FCA5A5" },
+        { "id": 4, "colorName": "red-400", "hex": "#F87171" },
+        { "id": 5, "colorName": "red-500", "hex": "#EF4444" },
+        { "id": 6, "colorName": "red-600", "hex": "#DC2626" },
+        { "id": 7, "colorName": "red-700", "hex": "#B91C1C" },
+        { "id": 8, "colorName": "red-800", "hex": "#991B1B" },
+        { "id": 9, "colorName": "red-900", "hex": "#7F1D1D" }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Orange",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "orange-100", "hex": "#FFEDD5" },
+        { "id": 2, "colorName": "orange-200", "hex": "#FED7AA" },
+        { "id": 3, "colorName": "orange-300", "hex": "#FDBA74" },
+        { "id": 4, "colorName": "orange-400", "hex": "#FB923C" },
+        { "id": 5, "colorName": "orange-500", "hex": "#F97316" },
+        { "id": 6, "colorName": "orange-600", "hex": "#EA580C" },
+        { "id": 7, "colorName": "orange-700", "hex": "#C2410C" },
+        { "id": 8, "colorName": "orange-800", "hex": "#9A3412" },
+        { "id": 9, "colorName": "orange-900", "hex": "#7C2D12" }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Amber",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "amber-100", "hex": "#FEF3C7" },
+        { "id": 2, "colorName": "amber-200", "hex": "#FDE68A" },
+        { "id": 3, "colorName": "amber-300", "hex": "#FCD34D" },
+        { "id": 4, "colorName": "amber-400", "hex": "#FBBF24" },
+        { "id": 5, "colorName": "amber-500", "hex": "#F59E0B" },
+        { "id": 6, "colorName": "amber-600", "hex": "#D97706" },
+        { "id": 7, "colorName": "amber-700", "hex": "#B45309" },
+        { "id": 8, "colorName": "amber-800", "hex": "#92400E" },
+        { "id": 9, "colorName": "amber-900", "hex": "#78350F" }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Yellow",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "yellow-100", "hex": "#FEF9C3" },
+        { "id": 2, "colorName": "yellow-200", "hex": "#FEF08A" },
+        { "id": 3, "colorName": "yellow-300", "hex": "#FDE047" },
+        { "id": 4, "colorName": "yellow-400", "hex": "#FACC15" },
+        { "id": 5, "colorName": "yellow-500", "hex": "#EAB308" },
+        { "id": 6, "colorName": "yellow-600", "hex": "#CA8A04" },
+        { "id": 7, "colorName": "yellow-700", "hex": "#A16207" },
+        { "id": 8, "colorName": "yellow-800", "hex": "#854D0E" },
+        { "id": 9, "colorName": "yellow-900", "hex": "#713F12" }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Lime",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "lime-100", "hex": "#ECFCCB" },
+        { "id": 2, "colorName": "lime-200", "hex": "#D9F99D" },
+        { "id": 3, "colorName": "lime-300", "hex": "#BEF264" },
+        { "id": 4, "colorName": "lime-400", "hex": "#A3E635" },
+        { "id": 5, "colorName": "lime-500", "hex": "#84CC16" },
+        { "id": 6, "colorName": "lime-600", "hex": "#65A30D" },
+        { "id": 7, "colorName": "lime-700", "hex": "#4D7C0F" },
+        { "id": 8, "colorName": "lime-800", "hex": "#3F6212" },
+        { "id": 9, "colorName": "lime-900", "hex": "#365314" }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Green",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "green-100", "hex": "#DCFCE7" },
+        { "id": 2, "colorName": "green-200", "hex": "#BBF7D0" },
+        { "id": 3, "colorName": "green-300", "hex": "#86EFAC" },
+        { "id": 4, "colorName": "green-400", "hex": "#4ADE80" },
+        { "id": 5, "colorName": "green-500", "hex": "#22C55E" },
+        { "id": 6, "colorName": "green-600", "hex": "#16A34A" },
+        { "id": 7, "colorName": "green-700", "hex": "#15803D" },
+        { "id": 8, "colorName": "green-800", "hex": "#166534" },
+        { "id": 9, "colorName": "green-900", "hex": "#14532D" }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Emerald",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "emerald-100", "hex": "#D1FAE5" },
+        { "id": 2, "colorName": "emerald-200", "hex": "#A7F3D0" },
+        { "id": 3, "colorName": "emerald-300", "hex": "#6EE7B7" },
+        { "id": 4, "colorName": "emerald-400", "hex": "#34D399" },
+        { "id": 5, "colorName": "emerald-500", "hex": "#10B981" },
+        { "id": 6, "colorName": "emerald-600", "hex": "#059669" },
+        { "id": 7, "colorName": "emerald-700", "hex": "#047857" },
+        { "id": 8, "colorName": "emerald-800", "hex": "#065F46" },
+        { "id": 9, "colorName": "emerald-900", "hex": "#064E3B" }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Teal",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "teal-100", "hex": "#CCFBF1" },
+        { "id": 2, "colorName": "teal-200", "hex": "#99F6E4" },
+        { "id": 3, "colorName": "teal-300", "hex": "#5EEAD4" },
+        { "id": 4, "colorName": "teal-400", "hex": "#2DD4BF" },
+        { "id": 5, "colorName": "teal-500", "hex": "#14B8A6" },
+        { "id": 6, "colorName": "teal-600", "hex": "#0D9488" },
+        { "id": 7, "colorName": "teal-700", "hex": "#0F766E" },
+        { "id": 8, "colorName": "teal-800", "hex": "#115E59" },
+        { "id": 9, "colorName": "teal-900", "hex": "#134E4A" }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Cyan",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "cyan-100", "hex": "#CFFAFE" },
+        { "id": 2, "colorName": "cyan-200", "hex": "#A5F3FC" },
+        { "id": 3, "colorName": "cyan-300", "hex": "#67E8F9" },
+        { "id": 4, "colorName": "cyan-400", "hex": "#22D3EE" },
+        { "id": 5, "colorName": "cyan-500", "hex": "#06B6D4" },
+        { "id": 6, "colorName": "cyan-600", "hex": "#0891B2" },
+        { "id": 7, "colorName": "cyan-700", "hex": "#0E7490" },
+        { "id": 8, "colorName": "cyan-800", "hex": "#155E75" },
+        { "id": 9, "colorName": "cyan-900", "hex": "#164E63" }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Sky",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "sky-100", "hex": "#E0F2FE" },
+        { "id": 2, "colorName": "sky-200", "hex": "#BAE6FD" },
+        { "id": 3, "colorName": "sky-300", "hex": "#7DD3FC" },
+        { "id": 4, "colorName": "sky-400", "hex": "#38BDF8" },
+        { "id": 5, "colorName": "sky-500", "hex": "#0EA5E9" },
+        { "id": 6, "colorName": "sky-600", "hex": "#0284C7" },
+        { "id": 7, "colorName": "sky-700", "hex": "#0369A1" },
+        { "id": 8, "colorName": "sky-800", "hex": "#075985" },
+        { "id": 9, "colorName": "sky-900", "hex": "#0C4A6E" }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Blue",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "blue-100", "hex": "#DBEAFE" },
+        { "id": 2, "colorName": "blue-200", "hex": "#BFDBFE" },
+        { "id": 3, "colorName": "blue-300", "hex": "#93C5FD" },
+        { "id": 4, "colorName": "blue-400", "hex": "#60A5FA" },
+        { "id": 5, "colorName": "blue-500", "hex": "#3B82F6" },
+        { "id": 6, "colorName": "blue-600", "hex": "#2563EB" },
+        { "id": 7, "colorName": "blue-700", "hex": "#1D4ED8" },
+        { "id": 8, "colorName": "blue-800", "hex": "#1E40AF" },
+        { "id": 9, "colorName": "blue-900", "hex": "#1E3A8A" }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Indigo",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "indigo-100", "hex": "#E0E7FF" },
+        { "id": 2, "colorName": "indigo-200", "hex": "#C7D2FE" },
+        { "id": 3, "colorName": "indigo-300", "hex": "#A5B4FC" },
+        { "id": 4, "colorName": "indigo-400", "hex": "#818CF8" },
+        { "id": 5, "colorName": "indigo-500", "hex": "#6366F1" },
+        { "id": 6, "colorName": "indigo-600", "hex": "#4F46E5" },
+        { "id": 7, "colorName": "indigo-700", "hex": "#4338CA" },
+        { "id": 8, "colorName": "indigo-800", "hex": "#3730A3" },
+        { "id": 9, "colorName": "indigo-900", "hex": "#312E81" }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Violet",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "violet-100", "hex": "#EDE9FE" },
+        { "id": 2, "colorName": "violet-200", "hex": "#DDD6FE" },
+        { "id": 3, "colorName": "violet-300", "hex": "#C4B5FD" },
+        { "id": 4, "colorName": "violet-400", "hex": "#A78BFA" },
+        { "id": 5, "colorName": "violet-500", "hex": "#8B5CF6" },
+        { "id": 6, "colorName": "violet-600", "hex": "#7C3AED" },
+        { "id": 7, "colorName": "violet-700", "hex": "#6D28D9" },
+        { "id": 8, "colorName": "violet-800", "hex": "#5B21B6" },
+        { "id": 9, "colorName": "violet-900", "hex": "#4C1D95" }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Purple",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "purple-100", "hex": "#F3E8FF" },
+        { "id": 2, "colorName": "purple-200", "hex": "#E9D5FF" },
+        { "id": 3, "colorName": "purple-300", "hex": "#D8B4FE" },
+        { "id": 4, "colorName": "purple-400", "hex": "#C084FC" },
+        { "id": 5, "colorName": "purple-500", "hex": "#A855F7" },
+        { "id": 6, "colorName": "purple-600", "hex": "#9333EA" },
+        { "id": 7, "colorName": "purple-700", "hex": "#7E22CE" },
+        { "id": 8, "colorName": "purple-800", "hex": "#6B21A8" },
+        { "id": 9, "colorName": "purple-900", "hex": "#581C87" }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Fuchsia",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "fuchisia-100", "hex": "#FAE8FF" },
+        { "id": 2, "colorName": "fuchisia-200", "hex": "#F5D0FE" },
+        { "id": 3, "colorName": "fuchisia-300", "hex": "#F0ABFC" },
+        { "id": 4, "colorName": "fuchisia-400", "hex": "#E879F9" },
+        { "id": 5, "colorName": "fuchisia-500", "hex": "#D946EF" },
+        { "id": 6, "colorName": "fuchisia-600", "hex": "#C026D3" },
+        { "id": 7, "colorName": "fuchisia-700", "hex": "#A21CAF" },
+        { "id": 8, "colorName": "fuchisia-800", "hex": "#86198F" },
+        { "id": 9, "colorName": "fuchisia-900", "hex": "#701A75" }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Pink",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "pink-100", "hex": "#FCE7F3" },
+        { "id": 2, "colorName": "pink-200", "hex": "#FBCFE8" },
+        { "id": 3, "colorName": "pink-300", "hex": "#F9A8D4" },
+        { "id": 4, "colorName": "pink-400", "hex": "#F472B6" },
+        { "id": 5, "colorName": "pink-500", "hex": "#EC4899" },
+        { "id": 6, "colorName": "pink-600", "hex": "#DB2777" },
+        { "id": 7, "colorName": "pink-700", "hex": "#BE185D" },
+        { "id": 8, "colorName": "pink-800", "hex": "#9D174D" },
+        { "id": 9, "colorName": "pink-900", "hex": "#831843" }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Rose",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "rose-100", "hex": "#FFE4E6" },
+        { "id": 2, "colorName": "rose-200", "hex": "#FECDD3" },
+        { "id": 3, "colorName": "rose-300", "hex": "#FDA4AF" },
+        { "id": 4, "colorName": "rose-400", "hex": "#FB7185" },
+        { "id": 5, "colorName": "rose-500", "hex": "#F43F5E" },
+        { "id": 6, "colorName": "rose-600", "hex": "#E11D48" },
+        { "id": 7, "colorName": "rose-700", "hex": "#BE123C" },
+        { "id": 8, "colorName": "rose-800", "hex": "#9F1239" },
+        { "id": 9, "colorName": "rose-900", "hex": "#881337" }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Aquamarine",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "aquamarine-100", "hex": "#7de3d2" },
+        { "id": 2, "colorName": "aquamarine-200", "hex": "#69d8c6" },
+        { "id": 3, "colorName": "aquamarine-300", "hex": "#44cfb8" },
+        { "id": 4, "colorName": "aquamarine-400", "hex": "#38bca6" },
+        { "id": 5, "colorName": "aquamarine-500", "hex": "#2da995" },
+        { "id": 6, "colorName": "aquamarine-600", "hex": "#209784" },
+        { "id": 7, "colorName": "aquamarine-700", "hex": "#0f7b69" },
+        { "id": 8, "colorName": "aquamarine-800", "hex": "#086858" },
+        { "id": 9, "colorName": "aquamarine-900", "hex": "#004d40" }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Citrus",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "citrus-100", "hex": "#ffc875" },
+        { "id": 2, "colorName": "citrus-200", "hex": "#ffb13d" },
+        { "id": 3, "colorName": "citrus-300", "hex": "#f3a32b" },
+        { "id": 4, "colorName": "citrus-400", "hex": "#ffa31a" },
+        { "id": 5, "colorName": "citrus-500", "hex": "#ff9900" },
+        { "id": 6, "colorName": "citrus-600", "hex": "#eb8d00" },
+        { "id": 7, "colorName": "citrus-700", "hex": "#d68100" },
+        { "id": 8, "colorName": "citrus-800", "hex": "#c27400" },
+        { "id": 9, "colorName": "citrus-900", "hex": "#a36200" }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "ForestGreen",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "forestGreen-100", "hex": "#82dde3" },
+        { "id": 2, "colorName": "forestGreen-200", "hex": "#30ced9" },
+        { "id": 3, "colorName": "forestGreen-300", "hex": "#2dc2cd" },
+        { "id": 4, "colorName": "forestGreen-400", "hex": "#22b4bf" },
+        { "id": 5, "colorName": "forestGreen-500", "hex": "#21a6b0" },
+        { "id": 6, "colorName": "forestGreen-600", "hex": "#1b98a1" },
+        { "id": 7, "colorName": "forestGreen-700", "hex": "#12848c" },
+        { "id": 8, "colorName": "forestGreen-800", "hex": "#087078" },
+        { "id": 9, "colorName": "forestGreen-900", "hex": "#026269" }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Rusty",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "rusty-100", "hex": "#ffde8a" },
+        { "id": 2, "colorName": "rusty-200", "hex": "#ffce52" },
+        { "id": 3, "colorName": "rusty-300", "hex": "#ffc42e" },
+        { "id": 4, "colorName": "rusty-400", "hex": "#ffbd14" },
+        { "id": 5, "colorName": "rusty-500", "hex": "#f0ac00" },
+        { "id": 6, "colorName": "rusty-600", "hex": "#e0a100" },
+        { "id": 7, "colorName": "rusty-700", "hex": "#c28b00" },
+        { "id": 8, "colorName": "rusty-800", "hex": "#ad7c00" },
+        { "id": 9, "colorName": "rusty-900", "hex": "#a87900" }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Black",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "black-100", "hex": "#4f4f4f" },
+        { "id": 2, "colorName": "black-200", "hex": "#4d4d4d" },
+        { "id": 3, "colorName": "black-300", "hex": "#424242" },
+        { "id": 4, "colorName": "black-400", "hex": "#3d3d3d" },
+        { "id": 5, "colorName": "black-500", "hex": "#333333" },
+        { "id": 6, "colorName": "black-600", "hex": "#2b2b2b" },
+        { "id": 7, "colorName": "black-700", "hex": "#1f1f1f" },
+        { "id": 8, "colorName": "black-800", "hex": "#1a1a1a" },
+        { "id": 9, "colorName": "black-900", "hex": "#0d0d0d" }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "White",
+      "new": false,
+      "list": [
+        { "id": 1, "colorName": "white-100", "hex": "#fafafa" },
+        { "id": 2, "colorName": "white-200", "hex": "#e6e6e6" },
+        { "id": 3, "colorName": "white-300", "hex": "#d9d9d9" },
+        { "id": 4, "colorName": "white-400", "hex": "#cfcfcf" },
+        { "id": 5, "colorName": "white-500", "hex": "#c2c2c2" },
+        { "id": 6, "colorName": "white-600", "hex": "#b5b5b5" },
+        { "id": 7, "colorName": "white-700", "hex": "#ababab" },
+        { "id": 8, "colorName": "white-800", "hex": "#9c9c9c" },
+        { "id": 9, "colorName": "white-900", "hex": "#949494" }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Midnight Blue",
+      "new": true,
+      "list": [
+        { "id": 1, "colorName": "midnight-blue-100", "hex": "#CAF0F8" },
+        { "id": 2, "colorName": "midnight-blue-200", "hex": "#ADE8F4" },
+        { "id": 3, "colorName": "midnight-blue-300", "hex": "#90E0EF" },
+        { "id": 4, "colorName": "midnight-blue-400", "hex": "#48CAE4" },
+        { "id": 5, "colorName": "midnight-blue-500", "hex": "#00B4D8" },
+        { "id": 6, "colorName": "midnight-blue-600", "hex": "#0096C7" },
+        { "id": 7, "colorName": "midnight-blue-700", "hex": "#0077B6" },
+        { "id": 8, "colorName": "midnight-blue-800", "hex": "#023E8A" },
+        { "id": 9, "colorName": "midnight-blue-900", "hex": "#03045E" }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Yale Blue",
+      "new": true,
+      "list": [
+        { "id": 1, "colorName": "yale-blue-100", "hex": "#20BAC5" },
+        { "id": 2, "colorName": "yale-blue-200", "hex": "#00B2CA" },
+        { "id": 3, "colorName": "yale-blue-300", "hex": "#04A6C2" },
+        { "id": 4, "colorName": "yale-blue-400", "hex": "#0899BA" },
+        { "id": 5, "colorName": "yale-blue-500", "hex": "#0F80AA" },
+        { "id": 6, "colorName": "yale-blue-600", "hex": "#16679A" },
+        { "id": 7, "colorName": "yale-blue-700", "hex": "#1A5B92" },
+        { "id": 8, "colorName": "yale-blue-800", "hex": "#1C558E" },
+        { "id": 9, "colorName": "yale-blue-900", "hex": "#1D4E89" }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Floral",
+      "new": true,
+      "list": [
+        { "id": 1, "colorName": "floral-100", "hex": "#5BEFDD" },
+        { "id": 2, "colorName": "floral-200", "hex": "#66E3DF" },
+        { "id": 3, "colorName": "floral-300", "hex": "#70D7E0" },
+        { "id": 4, "colorName": "floral-400", "hex": "#7BCBE2" },
+        { "id": 5, "colorName": "floral-500", "hex": "#85C0E3" },
+        { "id": 6, "colorName": "floral-600", "hex": "#90B4E5" },
+        { "id": 7, "colorName": "floral-700", "hex": "#9AA8E6" },
+        { "id": 8, "colorName": "floral-800", "hex": "#A59CE8" },
+        { "id": 9, "colorName": "floral-900", "hex": "#AF90E9" }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Trypan",
+      "new": true,
+      "list": [
+        { "id": 1, "colorName": "trypan-100", "hex": "#F72585" },
+        { "id": 2, "colorName": "trypan-200", "hex": "#D61E92" },
+        { "id": 3, "colorName": "trypan-300", "hex": "#B5179E" },
+        { "id": 4, "colorName": "trypan-400", "hex": "#A514A5" },
+        { "id": 5, "colorName": "trypan-500", "hex": "#9410AB" },
+        { "id": 6, "colorName": "trypan-600", "hex": "#7209B7" },
+        { "id": 7, "colorName": "trypan-700", "hex": "#640AB2" },
+        { "id": 8, "colorName": "trypan-800", "hex": "#560BAD" },
+        { "id": 9, "colorName": "trypan-900", "hex": "#480CA8" }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Slimy Green",
+      "new": true,
+      "list": [
+        { "id": 1, "colorName": "slimy-green-100", "hex": "#E6FFE6" },
+        { "id": 2, "colorName": "slimy-green-200", "hex": "#CCFFCC" },
+        { "id": 3, "colorName": "slimy-green-300", "hex": "#99FF99" },
+        { "id": 4, "colorName": "slimy-green-400", "hex": "#66FF66" },
+        { "id": 5, "colorName": "slimy-green-500", "hex": "#00FF00" },
+        { "id": 6, "colorName": "slimy-green-600", "hex": "#00E600" },
+        { "id": 7, "colorName": "slimy-green-700", "hex": "#00CC00" },
+        { "id": 8, "colorName": "slimy-green-800", "hex": "#00B300" },
+        { "id": 9, "colorName": "slimy-green-900", "hex": "#009900" }
+      ]
+    }
+  ]
+}
